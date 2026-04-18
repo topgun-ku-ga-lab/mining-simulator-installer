@@ -1,0 +1,2 @@
+# mining-simulator-installer
+こちらからダウンロードできます
